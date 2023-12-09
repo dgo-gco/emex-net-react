@@ -1,0 +1,6 @@
+#VS Files
+.vs/
+
+#Binaries in all projects
+**/bin/
+**/obj/
